@@ -63,12 +63,12 @@ Good ways to get started:
 
 1. Explore the [panurus repository](https://github.com/LFDT-Panurus/panurus) and review the architecture documentation.
 2. Try the end-to-end [Fabric Samples Token SDK](https://github.com/hyperledger/fabric-samples/tree/main/token-sdk) to understand the developer experience.
-3. Join community discussions on [LFDT Discord](https://discord.lfdecentralizedtrust.org). Channel: #fabric-token-sdk
+3. Join community discussions on [LFDT Discord](https://discord.lfdecentralizedtrust.org). Channel: #panurus
 4. Attend the monthly Panurus community calls. These meetings are open to everyone and are a good place to ask questions, discuss roadmap items, and learn how to contribute.
 
 | Meeting | Calendar Link |
 |---|---|
-| Panurus Community Meeting | https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust |
+| Panurus Community Meeting | https://zoom-lfx.platform.linuxfoundation.org/meetings/panurus?view=week |
 
 Past meeting recordings and presentations can be accessed through:
 
